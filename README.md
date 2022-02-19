@@ -6,7 +6,12 @@ See (non-interactive) notebooks `data_cvx_heterodyne_N4.html` and `data_cvx_hete
 Experimental Wigner tomography data courtesy of Marina Kudra, publication [[2]](#2).
 See (non-interactive) notebook `data_cvx_wigner_tomography.html` rendered [here](https://ingstra.github.io/cvx-tomography/data_cvx_wigner_tomography.html). [Compare](https://ingstra.github.io/cvx-tomography/cgan_binomial_reconstruction.html) with CGAN [[3]](#3).
 
-`.ipynb` notebooks can be run on Binder [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/ingstra/cvx-tomography/main) or downloaded and run locally. 
+`.ipynb` notebooks can be run on Binder [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/ingstra/cvx-tomography/main) or downloaded and run locally.
+
+
+[![DOI](https://zenodo.org/badge/416242001.svg)](https://zenodo.org/badge/latestdoi/416242001)
+
+
 
 ## References
 <a id="1">[1]</a>
