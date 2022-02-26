@@ -1,20 +1,20 @@
 cff-version: 1.2.0
 message: "If you use this software, please cite it as below."
 authors:
-  - given-names: Ingrid
-    family-names: Strandberg
-    affiliation: Chalmers University of Technology
-    orcid: 'https://orcid.org/0000-0002-3238-8164'
+- family-names: "Strandberg"
+  given-names: "Ingrid"
+  orcid: "https://orcid.org/0000-0002-3238-8164"
 title: "Continuous variable state tomography with convex optimization"
-url: "https://github.com/ingstra/cvx-tomography"
+version: 1.0
 doi: 10.5281/zenodo.6166235
+date-released: 2022-02-19
+url: "https://github.com/ingstra/cvx-tomography"
 preferred-citation:
   type: article
   authors:
-   - given-names: Ingrid
-     family-names: Strandberg
-   	 affiliation: Chalmers University of Technology
-     orcid: 'https://orcid.org/0000-0002-3238-8164'
+  - family-names: "Strandberg"
+    given-names: "Ingrid"
+    orcid: "https://orcid.org/0000-0002-3238-8164"
   doi: "10.48550/arXiv.2202.11584"
   journal: "arXiv"
   month: 2
