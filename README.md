@@ -8,9 +8,9 @@ See (non-interactive) notebook `data_cvx_wigner_tomography.html` rendered [here]
 
 `.ipynb` notebooks can be run on Binder [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/ingstra/cvx-tomography/main) or downloaded and run locally.
 
-
 [![DOI](https://zenodo.org/badge/416242001.svg)](https://zenodo.org/badge/latestdoi/416242001)
 
+arXiv preprint [link](https://arxiv.org/abs/2202.11584).
 
 
 ## References
