@@ -2,7 +2,7 @@
 
 Experimental heterodyne data courtesy of Yong Lu, publication [[1]](#1).
 See (non-interactive) notebooks `data_cvx_heterodyne_N4.html` and `data_cvx_heterodyne_N8.html` rendered [here (N4)](https://ingstra.github.io/cvx-tomography/data_cvx_heterodyne_N4.html) and [here (N8)](https://ingstra.github.io/cvx-tomography/data_cvx_heterodyne_N8.html).
-**Note**: heterodyne histograms must be normalized such that ![equation](https://latex.codecogs.com/svg.image?%5Csqrt%7B%5Clangle%20a%5E%5Cdagger%20a%20%5Crangle%7D).
+**Note**: heterodyne histograms must be normalized such that ![equation](https://latex.codecogs.com/svg.image?%5Csqrt%7B%5Clangle%20a%5E%5Cdagger%20a%20%5Crangle%7D)=1.
 
 Experimental Wigner tomography data courtesy of Marina Kudra, publication [[2]](#2).
 See (non-interactive) notebook `data_cvx_wigner_tomography.html` rendered [here](https://ingstra.github.io/cvx-tomography/data_cvx_wigner_tomography.html). [Compare](https://ingstra.github.io/cvx-tomography/cgan_binomial_reconstruction.html) with CGAN [[3]](#3).
