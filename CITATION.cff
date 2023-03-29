@@ -15,8 +15,10 @@ preferred-citation:
   - family-names: "Strandberg"
     given-names: "Ingrid"
     orcid: "https://orcid.org/0000-0002-3238-8164"
-  doi: "10.48550/arXiv.2202.11584"
-  journal: "arXiv"
-  month: 2
+  doi: "10.1103/PhysRevApplied.18.044041"
   title: "Simple, reliable and noise-resilient continuous-variable quantum state tomography with convex optimization"
   year: 2022
+  publisher: "American Physical Society"
+   journal: "Phys. Rev. Applied"
+  volume: 18
+  pages: 044041
