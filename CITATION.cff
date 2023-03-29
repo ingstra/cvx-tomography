@@ -16,9 +16,9 @@ preferred-citation:
     given-names: "Ingrid"
     orcid: "https://orcid.org/0000-0002-3238-8164"
   doi: "10.1103/PhysRevApplied.18.044041"
-  title: "Simple, reliable and noise-resilient continuous-variable quantum state tomography with convex optimization"
+  url: "https://doi.org/10.1103/PhysRevApplied.18.044041"
+  journal: "Phys. Rev. Applied"
   year: 2022
-  publisher: "American Physical Society"
-   journal: "Phys. Rev. Applied"
+  title: "Simple, reliable and noise-resilient continuous-variable quantum state tomography with convex optimization"
   volume: 18
   pages: 044041
